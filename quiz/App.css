@@ -1,0 +1,17 @@
+#root {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.question-box {
+	width: 50%;
+	margin: 10px auto;
+}
+
+.correct {
+	background-color: green;
+}
+
+.incorrect {
+	background-color: red;
+}
